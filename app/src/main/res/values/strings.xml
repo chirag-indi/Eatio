@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">Hungrooz</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_cart">Cart</string>
+
+    <string name="splash">Splash Background</string>
+    <string name="title_activity_user_select">Hungrooz</string>
+
+
+    <!-- Strings of UserTypeActivity -->
+    <string name="login_user_button">Login</string>
+    <string name="sign_up_user_button">Sign Up</string>
+    <string name="Guest_user_button">Guest</string>
+    <string name="text_not_registered">Not Registered?</string>
+    <string name="guest_user_name">Guest User</string>
+
+
+    <!-- Strings related to Sign Up -->
+    <string name="prompt_phone">Phone number</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="prompt_name">Name</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_phone">This phone number is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_register_user">Signup</string>
+
+
+    <!-- Drawable Menu item titles -->
+    <string name="menu_item_home">Home</string>
+    <string name="menu_item_profile">Profile</string>
+    <string name="menu_item_track">Track Order</string>
+    <string name="menu_item_history">Your Orders</string>
+    <string name="menu_item_feedback">Feedback</string>
+    <string name="menu_item_help">Help</string>
+    <string name="menu_item_about">About</string>
+    <string name="menu_item_sign">Sign Out</string>
+    <string name="menu_item_share">Share</string>
+
+
+    <!-- String related to Profile fragment -->
+    <string name="profile_update_button">Update</string>
+    <string name="prompt_profile_name">Name</string>
+    <string name="prompt_profile_phone">Phone Number</string>
+    <string name="prompt_profile_email">E-mail</string>
+    <string name="prompt_profile_dob">DOB</string>
+    <string name="prompt_profile_address">Address</string>
+    <string name="profile_string_mr">Mr.</string>
+    <string name="profile_string_ms">Ms.</string>
+    <string name="profile_string_mrs">Mrs.</string>
+
+    <!-- About Fragment -->
+    <string name="about_hungrooz">Why sleep hungry when you can order delicious food at any time of the night.
+        Hungrooz is your go to app for ordering food just a few clicks away. Whether it is a hungering
+        for a burger or for some noodles, we have got your back covered.If you want a tasteful
+        gathering or some comfort food for you at home, we are at your neck. This is a great chance
+        to enjoy cuisines delivered at your doorsteps in a jiffy.
+    </string>
+    <string name="logo_description">Hungrooz Logo</string>
+    <string name="developer_title">App Developer</string>
+    <string name="developer_name">Ayush Aman (aayushamann@gmail.com)</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_user_type">Hungrooz</string>
+    <string name="title_activity_menu">Order Menu</string>
+    <string name="title_activity_profile">User Profile</string>
+    <string name="title_activity_cart">Order Cart</string>
+    <string name="title_activity_confirm_order">ConfirmOrderActivity</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_place_order_edit_details">Details</string>
+    <string name="title_place_order_bill">Total Bill</string>
+    <string name="title_place_order_payment_mode">Payment</string>
+
+
+    <!-- ********* Home Fragment Strings ********* -->
+
+    <string name="burger_button">Burger</string>
+    <string name="sandwich_button">Sandwich</string>
+    <string name="maggi_button">Maggi</string>
+    <string name="pasta_button">Pasta</string>
+    <string name="macaroni_button">Macaroni</string>
+    <string name="noodles_button">Noodles</string>
+
+
+    <!-- *********** Menu Strings ********** -->
+
+    <string name="menu_store_select">Select Store</string>
+    <string name="menu_store_jltt">JLTT</string>
+    <string name="menu_store_food_adda">Food Adda</string>
+
+    <!-- Menu Card Strings -->
+    <string name="menu_card_quantity_title">Quantity</string>
+    <string name="decrease_quantity_button">-</string>
+    <string name="increase_quantity_button">+</string>
+    <string name="add_to_cart_button">Add to Cart</string>
+    <string name="buy_now_button">Buy Now</string>
+
+
+    <!-- *********** Cart Strings ********** -->
+    <string name="cart_store_title">Store:</string>
+    <string name="cart_quantity_title">Quantity:</string>
+    <string name="cart_price_title">Price:</string>
+    <string name="remove_from_cart_button">Remove from Cart</string>
+
+
+    <!--  Confirm order Strings -->
+    <string name="confirm_check_details_next_button_text">Next (Your Bill)</string>
+    <string name="confirm_bill_item_title">Item</string>
+    <string name="confirm_bill_price_title">Price(\u20B9)</string>
+    <string name="confirm_bill_total_title">Total Amount</string>
+    <string name="confirm_bill_next_button_text">Next (Pay)</string>
+    <string name="payment_promo_code_text">Have a Promo Code?</string>
+    <string name="payment_promo_code_edit_text">Enter code here</string>
+    <string name="payment_method_text">Choose a Payment Method:</string>
+    <string name="payment_type_cod_radio">COD (Cash On Delivery)</string>
+    <string name="payment_type_paytm_radio">Paytm</string>
+    <string name="pay_now_button">Confirm Order</string>
+
+</resources>
