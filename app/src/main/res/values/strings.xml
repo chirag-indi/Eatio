@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Hungrooz</string>
+    <string name="app_name">Eatio</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
@@ -8,7 +8,7 @@
     <string name="action_cart">Cart</string>
 
     <string name="splash">Splash Background</string>
-    <string name="title_activity_user_select">Hungrooz</string>
+    <string name="title_activity_user_select">Eatio</string>
 
 
     <!-- Strings of UserTypeActivity -->
@@ -61,21 +61,21 @@
     <string name="profile_string_mrs">Mrs.</string>
 
     <!-- About Fragment -->
-    <string name="about_hungrooz">Why sleep hungry when you can order delicious food at any time of the night.
-        Hungrooz is your go to app for ordering food just a few clicks away. Whether it is a hungering
+    <string name="about_eatio">Why sleep hungry when you can order delicious food at any time of the night.
+        Eatio is your go to app for ordering food just a few clicks away. Whether it is a hungering
         for a burger or for some noodles, we have got your back covered.If you want a tasteful
         gathering or some comfort food for you at home, we are at your neck. This is a great chance
         to enjoy cuisines delivered at your doorsteps in a jiffy.
     </string>
-    <string name="logo_description">Hungrooz Logo</string>
+    <string name="logo_description">Eatio Logo</string>
     <string name="developer_title">App Developer</string>
-    <string name="developer_name">Ayush Aman (aayushamann@gmail.com)</string>
+    <string name="developer_name">Akshay Kumar 150953092 Saurav Upadhyay 150953098</string>
 
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment">blank fragment</string>
     <string name="title_activity_login">Login</string>
-    <string name="title_activity_user_type">Hungrooz</string>
+    <string name="title_activity_user_type">Eatio</string>
     <string name="title_activity_menu">Order Menu</string>
     <string name="title_activity_profile">User Profile</string>
     <string name="title_activity_cart">Order Cart</string>
@@ -102,8 +102,8 @@
     <!-- *********** Menu Strings ********** -->
 
     <string name="menu_store_select">Select Store</string>
-    <string name="menu_store_jltt">JLTT</string>
-    <string name="menu_store_food_adda">Food Adda</string>
+    <string name="menu_store_dollops">Dollops</string>
+    <string name="menu_store_saiba">Saiba</string>
 
     <!-- Menu Card Strings -->
     <string name="menu_card_quantity_title">Quantity</string>

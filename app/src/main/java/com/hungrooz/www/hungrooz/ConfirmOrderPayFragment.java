@@ -21,9 +21,7 @@ import java.util.Date;
 import java.util.HashMap;
 
 
-/**
- * A simple {@link Fragment} subclass.
- */
+
 public class ConfirmOrderPayFragment extends Fragment {
 
     SharedPreferences sharedpreferences;
@@ -41,6 +39,7 @@ public class ConfirmOrderPayFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
+
         // Inflate the layout for this fragment
         View rootView = inflater.inflate(R.layout.fragment_confirm_order_pay, container, false);
 

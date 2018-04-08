@@ -28,7 +28,7 @@
                 android:fontFamily="sans-serif-condensed"
                 android:gravity="center"
                 android:padding="16dp"
-                android:text="@string/about_hungrooz"
+                android:text="@string/about_eatio"
                 android:textSize="24sp"
                 android:textStyle="bold" />
         </LinearLayout>

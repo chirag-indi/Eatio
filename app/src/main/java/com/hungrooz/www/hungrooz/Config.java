@@ -49,8 +49,8 @@ public class Config {
     public static final String menuPasta = "Pasta";
     public static final String menuMacroni = "Macaroni";
     public static final String menuNoodles = "Noodles";
-    public static final String menuStoreNameJLTT = "JLTT";
-    public static final String menuStoreNameFoodAdda = "Food Adda";
+    public static final String menuStoreNameJLTT = "Dollops";
+    public static final String menuStoreNameFoodAdda = "Saiba";
 
     // Cart Keys for PHP
     public static final String KEY_CART_PHONE = "phone";
