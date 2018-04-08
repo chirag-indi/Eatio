@@ -9,7 +9,7 @@
     android:gravity="center_horizontal"
     android:orientation="vertical"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
-    tools:context="com.hungrooz.www.hungrooz.RegisterUserActivity"
+    tools:context="com.MADLab.www.Eatio.RegisterUserActivity"
     tools:showIn="@layout/activity_register_user">
 
     <ScrollView

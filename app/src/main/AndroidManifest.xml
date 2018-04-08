@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.hungrooz.www.hungrooz">
+    package="com.MADLab.www.Eatio">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
@@ -34,7 +34,7 @@
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.hungrooz.www.hungrooz.UserTypeActivity" />
+                android:value="com.MADLab.www.Eatio.UserTypeActivity" />
         </activity>
         <activity
             android:name=".LoginActivity"
@@ -43,7 +43,7 @@
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.hungrooz.www.hungrooz.UserTypeActivity" />
+                android:value="com.MADLab.www.Eatio.UserTypeActivity" />
         </activity>
         <activity
             android:name=".UserTypeActivity"
@@ -52,7 +52,7 @@
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.hungrooz.www.hungrooz.SplashScreen" />
+                android:value="com.MADLab.www.Eatio.SplashScreen" />
         </activity>
         <activity
             android:name=".MenuActivity"
@@ -61,7 +61,7 @@
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.hungrooz.www.hungrooz.MainActivity" />
+                android:value="com.MADLab.www.Eatio.MainActivity" />
         </activity>
         <activity
             android:name=".ProfileActivity"
@@ -70,7 +70,7 @@
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.hungrooz.www.hungrooz.MainActivity" />
+                android:value="com.MADLab.www.Eatio.MainActivity" />
         </activity>
         <activity
             android:name=".CartActivity"
@@ -79,7 +79,7 @@
             android:theme="@style/AppTheme.NoActionBar">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.hungrooz.www.hungrooz.MainActivity" />
+                android:value="com.MADLab.www.Eatio.MainActivity" />
         </activity>
         <activity
             android:name=".ConfirmOrderActivity"

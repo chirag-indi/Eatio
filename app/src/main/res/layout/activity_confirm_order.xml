@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.hungrooz.www.hungrooz.ConfirmOrderActivity">
+    tools:context="com.MADLab.www.Eatio.ConfirmOrderActivity">
 
     <FrameLayout
         android:id="@+id/confirm_order_content"

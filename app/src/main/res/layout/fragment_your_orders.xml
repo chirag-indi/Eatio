@@ -7,7 +7,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:background="@color/colorWhite"
-    tools:context="com.hungrooz.www.hungrooz.YourOrdersFragment">
+    tools:context="com.MADLab.www.Eatio.YourOrdersFragment">
 
     <ListView
         android:id="@+id/list_view_your_orders"

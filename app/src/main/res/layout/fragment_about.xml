@@ -13,7 +13,7 @@
             android:background="@drawable/background_about"
             android:orientation="vertical"
             android:padding="16dp"
-            tools:context="com.hungrooz.www.hungrooz.AboutFragment">
+            tools:context="com.MADLab.www.Eatio.AboutFragment">
 
             <ImageView
                 android:id="@+id/imageView"
